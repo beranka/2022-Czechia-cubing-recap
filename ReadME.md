@@ -1,9 +1,13 @@
 
 # Czech republic annual cubing summary
-[English version ](./english.md)
+
+Something like summaries cubing.com generates for each person, but for my country.
 
 I currently don't know much else than some basic SQL, but hopefully the next year this summary will be a little more fancy and will include also information about PRs :D
 
+[All queries](./queries.sql)
+
+[English version ](./english.md)
 ## Soutěže v Česku
 V uplynulém roce (2022) byly v Česku 4 soutěže se 74 koly a 13 eventy.
 
