@@ -32,23 +32,7 @@ Competitors from 14 different countries competed in Czech republic:
 |Croatia|1|
 
 ## Competitions with Czechs
-
-Czechs competed in 50 competitions in the year 2022.
-Out of 159 Czechs that competed in 2022, the most competitions attended Jan Křížka (2018KRIZ01) with 11.
-
-No. competitions | No. people
-:-:|:-:
-11|	1
-8	|2
-7	|1
-6	|3
-5	|6
-4	|8
-3	|15
-2	|38
-1	|85
-
-Competitors from Czechia competed in 14 different countries:
+Czechs competed in 50 competitions in 14 different countries this year:
 
 |country|No. people|No. competitions
 |:-:|:-:|:-:
@@ -67,7 +51,20 @@ Competitors from Czechia competed in 14 different countries:
 |Canada|1|1
 |Italy|1|1
 
-Czechs in total met 3559 different people on competitions. Jan Křížka (2018KRIZ01) competed with 1225, which is the most of all Czechs.
+Out of 159 Czechs that competed in 2022, Jan Křížka (2018KRIZ01) attended the most competitions (11).
+No. competitions | No. people
+:-:|:-:
+11|	1
+8	|2
+7	|1
+6	|3
+5	|6
+4	|8
+3	|15
+2	|38
+1	|85
+
+Czechs in total met 3559 different people on competitions. Jan Křížka (2018KRIZ01) competed with 1225, which is the most of all Czechs. Jakub Hibszer (2018HIBS01) met 124 Czechs this year, which is the most out of all foreigners.
 ## Records
 Czech competitors broke 31 records, 20 averages and 11 singles. All of them were NRs.
 

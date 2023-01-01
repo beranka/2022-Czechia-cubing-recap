@@ -163,7 +163,7 @@ distinct personId, competitionId, countryId
 from Results)b
 on b.personId!=a.personId and a.competitionId=b.competitionId
 group by a.personId
-order by 2
+order by 2 desc
 
 NR avg improvement
 
@@ -253,3 +253,21 @@ from Results
 where countryId='Czech republic'
 and right(competitionId, 4)='2022'
 group by personId)a
+
+Foreigners by number of Czechs met
+
+Select a.personId, count(distinct b.personId)
+from 
+(select
+distinct personId, competitionId
+from Results
+where right(competitionId, 4)='2022'
+and countryId='Czech republic'
+)b 
+inner join
+(select
+distinct personId, competitionId
+from Results where countryId!='Czech republic')a
+on a.competitionId=b.competitionId
+group by a.personId
+order by 2 desc
