@@ -1,58 +1,63 @@
-# Czech republic annual summary
 
-## Competitions in Czechia
-In the past year (2022) there were 4 competitions with 74 rounds across 13 events in Czech republic.
+# Czech republic annual cubing summary
+[English version ](./english.md)
 
-Total of 215 people competed in them, 59 of those competed in more than 1 competition. Vojtěch Horák (2019HORA01) was the only one to compete in all of them.
+I currently don't know much else than some basic SQL, but hopefully the next year this summary will be a little more fancy and will include also information about PRs :D
 
-|No. competitions|No. people|
+## Soutěže v Česku
+V uplynulém roce (2022) byly v Česku 4 soutěže se 74 koly a 13 eventy.
+
+Soutěžilo tu celkem 215 lidí, 59 z nich na více než jedné české soutěži. Vojtěch Horák (2019HORA01) byl jediný, který se zúčastnil všech 4.
+
+|počet soutěží|počet lidí|
 |:---:|:---:|
 |4|1|
 |3|17|
 |2|41|
 |1|156|
 
-Competitors from 14 different countries competed in Czech republic:
+Soutěžili zde soutěžící ze 14 států:
 
-|country|No. people|
+|země|počet lidí|
 |:-:|:-:|
-|Czech republic|132|
-|Slovakia|31|
-|Poland|16|
-|Hungary|11|
-|Austria|6|
-|Slovenia|6|
-|Ukraine|4|
-|Germany|3|
+|ČR|132|
+|Slovensko|31|
+|Polsko|16|
+|Maďarsko|11|
+|Rakousko|6|
+|Slovinsko|6|
+|Ukrajina|4|
+|Německo|3|
 |Vietnam|1|
-|Romania|1|
-|France|1|
-|Luxembourg|1|
+|Rumunsko|1|
+|Francie|1|
+|Lucembursko|1|
 |USA|1|
-|Croatia|1|
+|Chorvatsko|1|
 
-## Competitions with Czechs
-Czechs competed in 50 competitions in 14 different countries this year:
+## Soutěže s Čechy
+Češi soutěžili v 50 soutěžích ve 14 státech:
 
-|country|No. people|No. competitions
+|země|počet lidí|počet soutěží
 |:-:|:-:|:-:
-|Czech republic|132|4
-|Poland|41|15
-|Slovakia|12|2
-|Germany|12|5
-|Austria|7|1
-|Sweden|4|5
-|United Kingdom|3|5
-|Denmark|3|1
-|Spain|3|2
-|Netherlands|2|3
-|Hungary|2|1
-|France|1|4
-|Canada|1|1
-|Italy|1|1
+|ČR|132|4
+|Polsko|41|15
+|Slovensko|12|2
+|Německo|12|5
+|Rakousko|7|1
+|Švédsko|4|5
+|Spojené království|3|5
+|Dánsko|3|1
+|Španělsko|3|2
+|Nizozemsko|2|3
+|Maďarsko|2|1
+|Francie|1|4
+|Kanada|1|1
+|Itálie|1|1
 
-Out of 159 Czechs that competed in 2022, Jan Křížka (2018KRIZ01) attended the most competitions (11).
-No. competitions | No. people
+Jan Křížka (2018KRIZ01) se v roce 2022 účastnil 11 soutěží, což je z Čechů, kteří v tento rok soutěžili, nejvíce.
+
+počet soutěží | počet lidí
 :-:|:-:
 11|	1
 8	|2
@@ -64,11 +69,13 @@ No. competitions | No. people
 2	|38
 1	|85
 
-Czechs in total met 3559 different people on competitions. Jan Křížka (2018KRIZ01) competed with 1225, which is the most of all Czechs. Jakub Hibszer (2018HIBS01) met 124 Czechs this year, which is the most out of all foreigners.
-## Records
-Czech competitors broke 31 records, 20 averages and 11 singles. All of them were NRs.
 
-|event	| single|average|total 	|
+Češi soutěžili s celkem 3559 různými lidmi. Jan Křížka soutěžil s 1225 lidmi, což je z Čechů nejvíce. Jakub Hibszer (2018HIBS01) letos potkal 124 Čechů, což je z cizinců nejvíce.
+
+## Rekordy
+Češi letos dali 31 rekordů, z toho 20x average a 11x single. Všechny tyto rekordy byly národní.
+
+|event	| single|average|celkem	|
 |:---:	|:---:	|:---:	|:---:	|
 | Square-1	|3   	|7   	|10   	|
 |  Clock|5      |3   	|8   	|
@@ -79,9 +86,9 @@ Czech competitors broke 31 records, 20 averages and 11 singles. All of them were
 |4x4x4 	|0   	|1   	|1   	|
 | 3x3x3 Blindfolded| 0  	| 1  	| 1  	|
 
-### Average record improvement 
+### Zlepšení NR average
 
-event|2022|<=2021|	improvement
+event|2022|<=2021|zlepšení
 |:---:	|:---:	|:---:	|:---:
 Square-1|8.05|11.97|3.92 (48.70 %)
 Pyraminx|2.87|3.99|1.12 (39.02 %)
@@ -92,19 +99,19 @@ Megaminx|48.28|49.67	|1.39 (2.88 %)
 6x6x6|1:46.35|1:48.51	|2.16 (2.03 %)
 4x4x4|29.24|29.58	|0.34 (1.16 %)
 
-### Single record improvement
-event|2022|<=2021|improvement
+### Zlepšení NR single
+event|2022|<=2021|zlepšení
 |:---:	|:---:	|:---:	|:---:
 Pyraminx|162|242|0.80 (49.38 %)
 Clock|551|779|2.28 (41.38 %)
 Square-1|656|905|2.49 (37.96 %)
 Megaminx|4055|4355|3.00 (7.40 %)
 
-## Solves/Attempts
+## Solvy/Pokusy
 
-Competitors from Czechia completed total of 9572 solves out of 9990
+Soutěžící z České republiky ukončili celkem 9572 solvů z 9962 pokusů.
 
-|event|solves|attempts|
+|event|solvy|pokusy|
 |:-:|:-:|:-:|
 |3x3x3|	2775|	2815|
 |2x2x2|	2057|	2100|
@@ -124,11 +131,11 @@ Competitors from Czechia completed total of 9572 solves out of 9990
 |3x3x3 Fewest moves|	1|	2|
 |5x5x5 Blindfolded|	0|	3|
 
-The most solves both attempted and completed had Emma Beranová (2019BERA01) with 447 solves and 457 attempts, Vojtěch Kundera (2015KUND04) was close second with 443 solves and 450 attempts.
+Nejvíce solvů i pokusů má Emma Beranová (2019BERA01) s 447 solvy a 457 pokusy. Těsně druhý je Vojtěch Kundera (2015KUND04) s 443 solvy a 450 pokusy.
 
 Top 10:
 
-person|No. solves|No. attempts
+osoba|počet solvů|počet pokusů
 |:-:|:-:|:-:|
 2019BERA01|	447|	457
 2015KUND04|	443|    450
@@ -136,14 +143,14 @@ person|No. solves|No. attempts
 2019HORA01|	268|	275
 2021FORE01|	261|	269
 2018KRIZ01|	252|	268
-2021GROH01|	245|	266
 2019TALA02|	248|	260
+2021GROH01|	245|	266
 2016BECK06|	208|	208
 2017SZYS01|	205|	207
 
-People with most solves in each event:
+Osoby s nejvíce solvy v každém eventu:
 
-eventId|personId|solves|attempts
+event|osoba|solvy|pokusy
 :-:|:-:|:-:|:-:
 3x3x3|2019HORA01|124|125
 2x2x2|2019HORA01|69|70
@@ -170,6 +177,4 @@ Square-1|2021FORE01|59|60
 5x5x5 Blindfolded|2019RIED01|0|1
 3x3x3 MultiBLD|2017FONS04|2|2
 
-The most DNFs (21) this year had Vojtěch Grohmann (2021GROH01). The most DNSs (5) had Emma Beranová (2019BERA01). There is 59 people who did not get any DNF or DNS this year.
-
-Czechs had total of 390 DNFs and 28 DNSs this year.
+Nejvíce DNF (21) měl letos Vojtěch Grohmann (2021GROH01). Nejvíce DNS (5) měla Emma Beranová (2019BERA01). V roce 2022 soutěžilo 59 Čechů, kteří neměli ani jedno DNF ani DNS. Celkem Češi dali 390 DNF a 28 DNS.

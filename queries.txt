@@ -121,11 +121,11 @@ sum(case when value2>0 then 1 else 0 end)+
 sum(case when value3>0 then 1 else 0 end)+
 sum(case when value4>0 then 1 else 0 end)+
 sum(case when value5>0 then 1 else 0 end) as solves, 
-sum(case when value1!=0 or value1!=-2 then 1 else 0 end)+
-sum(case when value2!=0 or value2!=-2 then 1 else 0 end)+
-sum(case when value3!=0 or value3!=-2 then 1 else 0 end)+
-sum(case when value4!=0 or value4!=-2 then 1 else 0 end)+
-sum(case when value5!=0 or value5!=-2 then 1 else 0 end) as attempts
+sum(case when value1!=0 and value1!=-2 then 1 else 0 end)+
+sum(case when value2!=0 and value2!=-2 then 1 else 0 end)+
+sum(case when value3!=0 and value3!=-2 then 1 else 0 end)+
+sum(case when value4!=0 and value4!=-2 then 1 else 0 end)+
+sum(case when value5!=0 and value5!=-2 then 1 else 0 end) as attempts
 from Results r
 where countryId='Czech republic' and right(competitionId, 4)='2022'
 group by personId
